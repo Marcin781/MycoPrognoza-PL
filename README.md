@@ -1,0 +1,2 @@
+# MycoPrognoza-PL
+Prognoza wysypu
